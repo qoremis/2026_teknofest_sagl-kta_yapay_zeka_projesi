@@ -1,0 +1,2 @@
+# porge_syzt
+çokgizli
